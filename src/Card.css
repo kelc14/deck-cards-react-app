@@ -1,0 +1,7 @@
+.Card-img {
+  width: 30%;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
